@@ -5,6 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+1.Download Zip folder.\
+2.Extract the folder .\
+3.Open in VS Code.\
+4.Run `yarn` in terminal.\
 
 ### `npm start`
 
